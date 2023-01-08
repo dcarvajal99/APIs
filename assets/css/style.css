@@ -8,12 +8,12 @@ h1 {
 .container{
     display:grid;
     justify-content: center;
-    grid-template-columns: minmax( 200px, 400px);
+    grid-template-columns: minmax( 300px, 600px);
     grid-template-areas: ". a .";
 }
 
 .box{
-    background-color: #6C757D;
+    background-color: #c4cfd8;
     border-radius: 20px;
     display: flex;
     flex-direction: column;

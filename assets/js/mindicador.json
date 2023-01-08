@@ -1,7 +1,4 @@
 {
-    "version": "1.7.0",
-    "autor": "mindicador.cl",
-    "fecha": "2022-08-04T20:00:00.000Z",
     "uf": {
         "codigo": "uf",
         "nombre": "Unidad de fomento (UF)",
